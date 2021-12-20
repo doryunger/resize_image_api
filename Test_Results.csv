@@ -1,0 +1,18 @@
+Test API Results
+Results Per Instance
+Instance Number,Average Frame Conversion Time,End Time,Duration,Total Converted Frames
+Instance 1,0.12 seconds,10:35:26,12.59 seconds,106
+Instance 2,0.08 seconds,10:35:45,8.52 seconds,106
+Instance 3,0.06 seconds,10:36:03,6.45 seconds,106
+Instance 4,0.08 seconds,10:36:24,8.15 seconds,106
+Instance 5,0.07 seconds,10:36:46,7.65 seconds,106
+General Statistics
+Total Requests: ,530
+Pass: ,530
+Fail: ,0
+Exception: ,0
+""
+Request per Second (mean): ,5.41 seconds
+Time per Request (mean): ,0.1 seconds,min: ,0.04 seconds,max: ,0.82 seconds
+""
+Exuction Details: ,Number of Instances,5,Interval Between Instances,8
